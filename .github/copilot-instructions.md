@@ -23,4 +23,4 @@ When generating content for this project:
 ## Response language
 - Always respond in Korean by default.
 
-Briefly explain this project to me
+Briefly explain this project to me.
