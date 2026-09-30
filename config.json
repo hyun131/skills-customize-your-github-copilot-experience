@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sentiment-classifier",
+      "title": "Beginner Sentiment Classifier",
+      "description": "Build a rule-based Python program that classifies short sentences as positive, negative, or neutral.",
+      "path": "assignments/sentiment-classifier",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
